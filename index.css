@@ -1,0 +1,79 @@
+/* Bloco de manutenção da página inicial */
+.Manutencao{
+    width: 100%;
+    height: 800px;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("Imagens/foguete\ lancando.jpg");
+    background-size: cover,cover;
+}
+.Manutencao_texto{
+    width: 1280px;
+    padding-top: 250px;
+    color: white;
+    font-size: 34px;
+}
+.Manutencao_botao{
+    width: 200px;
+    font-size: 18px;
+    height: 50px;
+    padding: 0;
+    border: none;
+    background-color: white;
+}
+.Manutencao_botao_azul{
+    width: 200px;
+    font-size: 18px;
+    color: white;
+    height: 50px;
+    padding: 0;
+    border: none;
+    background-color: blue;
+}
+.Manutencao_botao_azul:hover{
+    background-color: rgb(43, 36, 102);
+}
+.Manutencao_botao:hover{
+    background-color: rgba(255,255,255,0.8);
+}
+/* Apresentação de Cases */
+.Cases{
+    width: 1280px;
+    height: 600px;
+    text-align: center;
+    font-size: 25px;
+}
+.Quadro{
+    width: 1280px;
+    height: 800px;
+    color: white;
+    font-size: 30px;
+}
+.Quadro_direito{
+    padding-top: 535px;
+    padding-left: 650px;
+    background: url("Imagens/fundo\ cinza.png") 90% 100%/600px 300px no-repeat,
+    url("Imagens/foguete\ pousando.jpg") 20% 50%/757px no-repeat;
+}
+.Quadro_esquerdo{
+    padding-top: 535px;
+    padding-left: 100px;
+    background: url("Imagens/fundo\ cinza.png") 10% 100%/600px 300px no-repeat,
+    url("Imagens/foguete\ sujo.jpg") 80% 50%/757px no-repeat;
+}
+.Quadro_direito_auxiliar{
+    padding-top: 450px;
+    padding-left: 620px;
+    background: url("Imagens/fundo\ cinza.png") 100% 100%/700px 380px no-repeat,
+    url("Imagens/foguete\ lancando.jpg") 10% 50%/950px no-repeat;
+}
+.Bloco_azul_fundo{
+    width: 100%;
+    height: 400px;
+    padding-top: 100px;
+    background-color: rgb(140, 94, 197);
+}
+.Bloco_azul{
+    width: 1280px;
+    height: 200px;
+    color: white;
+    font-size: 40px;
+}

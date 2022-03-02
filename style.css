@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto 0 auto;
+    padding: 0;
+}
+.Menu{
+    width: 1280px;
+    height: 150px;
+    font-size: x-large;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+}
+.Final_fundo{
+    width: 100%;
+    height: 300px;
+    padding-top: 40px;
+    background-color: rgb(0, 0, 0);
+}
+.Final_bloco{
+    width: 1280px;
+    height: 200px;
+    color: white;
+    font-size: 40px;
+}
+.Final_categorias{
+    font-size: 12px;
+    color: gray;
+}
+.Final_texto_pequeno{
+    font-size: 20px;
+}
